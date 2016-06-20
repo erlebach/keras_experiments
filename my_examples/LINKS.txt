@@ -1,0 +1,10 @@
+https://github.com/fchollet/keras/issues/103
+suggestion: save the training history in model.train_history_
+
+http://swanintelligence.com/first-steps-with-neural-nets-in-keras.html
+First Steps With Neural Nets in Keras
+
+http://swanintelligence.com/watch-tiny-neural-nets-learn.html
+Watch Tiny Neural Nets Learn   (with keras)
+
+

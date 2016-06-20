@@ -1,0 +1,19 @@
+May 21, 2016
+- Run some simple examples. Try to get visualization working.
+
+Start with classificiation of 10 classes. 
+----------------------------------------------------------------------
+May 25, 2016
+BUG? If I use names in my layers, why aren't these names stored in the checkpoint files instead of the default names? Or store both default and user names in the file.
+----------------------------------------------------------------------
+Given a Gaussian signal, construct a mixed Gaussian model (with one Gaussian), that predicts the signal.
+
+s(t) = N(mu, sigma)
+
+1) mu, sigma = constants
+2) mu, sigma oscillate in time. 
+
+Objective: have the neural network predict mu and sigma as a function of time. 
+Use many artificial signals as training. 
+Parameters of network: mu, sigma
+----------------------------------------------------------------------
